@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/Best_Blog_3",
+    "prod_uri": "mysql://root:@localhost/Best_Blog_3",
+    "fb_url": "https://facebook.com/Best_Blog_3",
+    "tw_url": "https://twitter.com/Best_Blog_3",
+    "gh_url": "https://github.com/Best_Blog_3",
+    "blog_name": "Best_Blog_3",
+    "tag_name": "who are you",
+    "gmail-user": "nadim77@gmail.com ",
+    "gmail-password": "01756857973",
+    "about_text": "HI my name is nadim",
+    "num_of_posts":3,
+    "admin_user": "nadim",
+    "admin_password": "tubelight",
+    "upload_location": "C:\\Users\\Nadim Ahmmed\\PycharmProjects\\Website1\\static"
+
+
+
+  }
+}
